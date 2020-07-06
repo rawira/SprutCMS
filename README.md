@@ -34,8 +34,12 @@ Examples
 Examples here:
 / _read_me / api
 
-Examples:
+# Examples
+
 https://ebonyreads.com/
+
 https://timeat.com.ua/
-http://pinshop.com.ua/
+
+https://pinshop.com.ua/
+
 https://imperiabelya.com/
