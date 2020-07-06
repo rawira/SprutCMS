@@ -1,5 +1,5 @@
 # SprutCMS
-SprutCMS - Shop Engine
+SprutCMS - eCommerce solution.
 
 Welcome to SprutCMS installation! We're glad you chose to install SprutCMS, a cutting-edge, feature-rich eCommerce solution that gets results.
 
